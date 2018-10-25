@@ -1,0 +1,6 @@
+C:\VisualStudioExperiments\RefOut\RefOutExample\RefOutExample\bin\Debug\RefOutExample.exe.config
+C:\VisualStudioExperiments\RefOut\RefOutExample\RefOutExample\bin\Debug\RefOutExample.exe
+C:\VisualStudioExperiments\RefOut\RefOutExample\RefOutExample\bin\Debug\RefOutExample.pdb
+C:\VisualStudioExperiments\RefOut\RefOutExample\RefOutExample\obj\Debug\RefOutExample.csproj.CoreCompileInputs.cache
+C:\VisualStudioExperiments\RefOut\RefOutExample\RefOutExample\obj\Debug\RefOutExample.exe
+C:\VisualStudioExperiments\RefOut\RefOutExample\RefOutExample\obj\Debug\RefOutExample.pdb
